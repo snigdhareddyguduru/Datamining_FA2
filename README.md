@@ -123,3 +123,6 @@ In conclusion, this project has demonstrated the capabilities of data mining tec
 The project has also demonstrated the capabilities of data mining techniques in improving operational efficiency for banks by predicting ATM demand, identifying anomalies, and developing cash distribution strategies. However, it is also possible to extend this project further by implementing more sophisticated machine learning algorithms for predicting ATM demand.
 
 In summary, this project has demonstrated the capabilities of data mining and data visualization techniques in transforming raw transactional data into more meaningful information for better decision-making in banking operations.
+
+Link to project: https://d14412f6a06e5f6f4aa0527a32228c104cdb45f0-6sm52s9ufapfrpz8jhxxx.streamlit.app/
+
